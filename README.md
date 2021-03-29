@@ -48,6 +48,6 @@ Everything is a file under Linux even directories.
 
 Linux is an extensionless system files can have any extension they like or none at all.
 
-Linux is case sensitive Beware of silly typos.
+Linux is case sensitive Beware of silly typos..
 
 
